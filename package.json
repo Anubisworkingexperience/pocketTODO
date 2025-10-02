@@ -1,0 +1,14 @@
+{
+  "name": "pockettodo",
+  "version": "1.0.0",
+  "description": "minimalistic TODO app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "kirill",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^38.2.0"
+  }
+}
